@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!--Site meta-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1">
+    <meta name="description" content="The UK Health Security Agency (UKHSA) statistics production hub hosts a number of guidance materials and other resources relating to the production and dissemination of government statistics.">
+    
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" type="image/x-icon" href="assets/img/favicon.ico">
+    
+    <!--OG tags for social media-->
+    <meta property="og:title" content="The UKHSA Statistics Production Hub">
+		<meta property="og:description" content="The UK Health Security Agency (UKHSA) statistics production hub hosts a number of guidance materials and other resources relating to the production and dissemination of government statistics.">
+		<meta property="og:image" content="https://ukhsa-collaboration.github.io/statistics-production-hub/assets/img/index/laptophands.webp">
+		<meta property="og:url" content="https://ukhsa-collaboration.github.io/statistics-production-hub/">
+		<meta name="twitter:card" content="summary_large_image">
+    
+    <!--Title-->
+    <title>UKHSA statistics production hub</title>
+    
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <!--Scripts-->
+    <script> {% include expandable-sections.js %} </script>
+    
+  </head>
+  <body>
+    
+    <div id="big-banner">
+      <div id="big-banner-content">
+        <p>UKHSA statistics production&nbsp;hub</p>
+        <a href="{{ site.github }}" id="git-icon">
+          <img src="assets/img/github-mark-white.svg" alt="GitHub icon" width="30px" height="30px" style="max-width:30px">
+        </a>
+      </div>
+    </div>
+    
+    <div id="little-banner"></div>
+    
+    
+    <div class="nav-bars">
+      {% include site-nav.html %}
+    </div>
+    
+    
+    <div class="main">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  
+  {% include footer.html %}  
+  
+  <script>for (var i = 0; i < expandables.length; i++) {expandables[i].addEventListener('click', expand);}</script>
+  
+  </body>
+  
+</html>
