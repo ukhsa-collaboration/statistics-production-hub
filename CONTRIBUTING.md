@@ -1,6 +1,6 @@
 ## Contributing instructions
 
-We welcome contributions to our guidance or other resources. If you would like to suggest a change, please either [raise an issue](https://github.com/ukhsa-collaboration/statistics-production-hub/issues), [email us](mailto:UKHSA_HOPSTATS@ukhsa.gov.uk?subject=Statistics Production Hub) or raise a pull request. 
+We welcome contributions to our guidance or other resources. If you would like to suggest a change, please either [raise an issue](https://github.com/ukhsa-collaboration/statistics-production-hub/issues), [email us](<mailto:UKHSA_HOPSTATS@ukhsa.gov.uk?subject=Statistics Production Hub>) or raise a pull request. 
 
 The sections below describe the setup of this repository and how to reproduce some of the markdown features used within the guidance pages. 
 
