@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!--Site meta-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1">
+    <meta name="description" content="The UK Health Security Agency (UKHSA) statistics production hub hosts a number of guidance materials and other resources relating to the production and dissemination of government statistics.">
+    
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="apple-touch-icon" type="image/x-icon" href="assets/img/favicon.ico">
+    
+    <!--OG tags for social media-->
+    <meta property="og:title" content="The UKHSA Statistics Production Hub">
+		<meta property="og:description" content="The UK Health Security Agency (UKHSA) statistics production hub hosts a number of guidance materials and other resources relating to the production and dissemination of government statistics.">
+		<meta property="og:image" content="https://ukhsa-collaboration.github.io/statistics-production-hub/assets/img/index/laptophands.webp">
+		<meta property="og:url" content="https://ukhsa-collaboration.github.io/statistics-production-hub/">
+		<meta name="twitter:card" content="summary_large_image">
+    
+    <!--Title-->
+    <title>UKHSA statistics production hub</title>
+    
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="assets/styles-index.css">
+    
+  </head>
+  <body>
+    
+    <div id="big-banner">
+      <div id="big-banner-content">
+        <p>UKHSA statistics production&nbsp;hub</p>
+        <a href="{{ site.github }}" id="git-icon">
+          <img src="assets/img/github-mark-white.svg" alt="GitHub icon" width="30px" height="30px" style="max-width:30px">
+        </a>
+      </div>
+    </div>
+    
+    <div id="little-banner"></div>
+    
+    
+    <div class="main">
+      <div id="box">
+        <div id="box-left">
+          <h1>Welcome to the UK Health Security Agency (UKHSA) statistics production hub</h1>
+          
+          <p>This site has been created by the Statistics Production Division within UKHSA. It hosts a number of guidance materials and other resources relating to the production and dissemination of statistics. We have decided to open source these materials to better enable sharing across government (and beyond), and to invite others to share their insights and experiences with us.<br><br>We welcome feedback and collaboration! To do so, please either <a href="mailto:UKHSA_HOPSTATS@ukhsa.gov.uk?subject=Statistics Production Hub">email us</a> or see our <a href="https://github.com/ukhsa-collaboration/statistics-production-hub/blob/main/CONTRIBUTING.md">contributing instructions</a>.</p>
+          
+          <a href="mailto:UKHSA_HOPSTATS@ukhsa.gov.uk?subject=Statistics Production Hub" style="text-decoration:none"><div class="index-link"><p>Contact us</p></div></a>
+          
+          <a href="https://github.com/ukhsa-collaboration/statistics-production-hub" style="text-decoration:none"><div class="index-link"><p>View our code</p></div></a>
+          
+        </div>
+        
+        <img id="box-right" src="assets/img/index/laptophands.webp" alt="A picture of a person working at a laptop" width="500px" height="363px">
+        
+      </div>
+      
+      <div id="index-tile-block">
+        
+        <a href="rap" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Reproducible Analytical Pipelines (RAP)</h3>
+            <p>Making analysis reproducible, efficient and high quality</p>
+          </div>
+        </a>
+        
+        <a href="quality-assurance" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Quality assurance</h3>
+            <p>Ensuring that analysis is fit for purpose</p>
+          </div>
+        </a>
+        
+        <a href="communicating-uncertainty" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Communicating uncertainty</h3>
+            <p>Being transparent about uncertainty in data to users</p>
+          </div> 
+        </a>
+        
+        <a href="missing-data" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Missing data</h3>
+            <p>Assessing and dealing with missing data, being transparent about missing data to users</p>
+          </div> 
+        </a>
+        
+        <a href="spreadsheets" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Spreadsheets</h3>
+            <p>Creating clear and accessible spreadsheets</p>
+          </div> 
+        </a>
+        
+        <a href="data-vis" class="index-tile-a">
+          <div class="index-tile">
+            <h3>Data visualisations</h3>
+            <p>Creating clear and accessible graphs and charts</p>
+          </div> 
+        </a>
+        
+      </div>
+      
+    </div>
+    
+    {% include footer.html %}
+  
+  </body>
+  
+</html>

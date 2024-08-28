@@ -1,0 +1,11 @@
+# R files
+*.Rhistory
+*.RData
+*.rData
+*.Ruserdata
+*.Rcheck
+*.Rproj.user
+
+# Local testing environment files
+Gemfile.lock
+docs/_site/

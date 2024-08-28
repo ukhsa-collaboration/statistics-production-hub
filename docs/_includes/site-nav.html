@@ -1,0 +1,21 @@
+<div id="site-nav">
+    <a href="/statistics-production-hub/" style="display:inline-block;"><p>Go back to see other topics</p></a>
+    
+    {% if page.page-group-title %}
+    <p style="margin: 12px 10px 12px 0px; border-left: 1pt solid #ada8a8; display:inline-block;">&nbsp;</p>
+    <p style="font-weight:bold">{{ page.page-group-title}} pages:</p>
+    {% endif %}
+    
+    {% if page.page1 %}
+    <a href="{{ page.page1.url }}"><p>{{ page.page1.name }}</p></a>
+    {% endif %}
+    
+    {% if page.page2 %}
+      <a href="{{ page.page2.url }}"><p>{{ page.page2.name }}</p></a>
+    {% endif %}
+    
+    {% if page.page3 %}
+      <a href="{{ page.page3.url }}"><p>{{ page.page3.name }}</p></a>
+    {% endif %}
+    
+</div>
