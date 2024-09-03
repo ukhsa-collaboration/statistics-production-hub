@@ -143,8 +143,8 @@ ul, ol{
 }
 
 
-/*Permalinks*/
-.permalink{
+/*Section links*/
+.section-link{
   background-image: url('img/permalink.png');
   width: 18px;
   height: 18px;
@@ -154,6 +154,10 @@ ul, ol{
   background-size: cover;
 }
 
+.section-link:hover{
+  cursor: pointer;
+}
+
 h1 span, h2 span, h3 span, h4 span, h5 span {
   transition: opacity 0.3s ease-in-out;
 }
@@ -161,7 +165,6 @@ h1 span, h2 span, h3 span, h4 span, h5 span {
 h1:hover span, h2:hover span, h3:hover span, h4:hover span, h5:hover span{
   opacity: 0.5;
 }
-
 
 
 /*Fancy elements*/

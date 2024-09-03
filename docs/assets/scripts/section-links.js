@@ -1,7 +1,7 @@
 // Function to copy link to clipboard
 function copylink(text) {
     navigator.clipboard.writeText(text).then(() => {
-        alert(`Link copied to clipboard: ${text}`);
+        alert(`Link copied to clipboard:\n${text}`);
     }).catch(err => {
         console.error('Failed to copy link', err);
     });
@@ -16,8 +16,8 @@ document.querySelectorAll('h1, h2, h3, h4, h5').forEach(heading => {
 
     // Create the icon element
     const iconWrapper = document.createElement('span');
-    iconWrapper.className = 'permalink';
-    iconWrapper.title = 'Permalink';
+    iconWrapper.className = 'section-link';
+    iconWrapper.title = 'Section link';
     iconWrapper.innerHTML = ' ';
 
     // Append the icon to the heading
