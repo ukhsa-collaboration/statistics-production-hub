@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='384.00pt' height='256.00pt' viewBox='0 0 384.00 256.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzODQuMDB8MC4wMHwyNTYuMDA='>
+    <rect x='0.00' y='0.00' width='384.00' height='256.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzODQuMDB8MC4wMHwyNTYuMDA=)'>
+<rect x='0.000000000000032' y='0.00' width='384.00' height='256.00' style='stroke-width: 1.75; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjcuMDR8Mzc1LjAzfDM1LjYxfDIwMS4xMg=='>
+    <rect x='27.04' y='35.61' width='347.99' height='165.50' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjcuMDR8Mzc1LjAzfDM1LjYxfDIwMS4xMg==)'>
+<polyline points='27.04,201.12 375.03,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='27.04,169.29 375.03,169.29 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='27.04,137.46 375.03,137.46 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='27.04,105.63 375.03,105.63 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='27.04,73.80 375.03,73.80 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='27.04,41.98 375.03,41.98 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<line x1='106.13' y1='201.12' x2='106.13' y2='35.61' style='stroke-width: 3.20; stroke: #D9D9D9; stroke-dasharray: 17.07,17.07; stroke-linecap: butt;' />
+<line x1='232.67' y1='201.12' x2='232.67' y2='35.61' style='stroke-width: 3.20; stroke: #D9D9D9; stroke-dasharray: 17.07,17.07; stroke-linecap: butt;' />
+<polyline points='42.86,137.46 106.13,105.63 ' style='stroke-width: 3.20; stroke-linecap: butt;' />
+<polyline points='232.67,73.80 295.95,105.63 359.22,41.98 ' style='stroke-width: 3.20; stroke-linecap: butt;' />
+<circle cx='42.86' cy='137.46' r='4.62' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='106.13' cy='105.63' r='4.62' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='232.67' cy='73.80' r='4.62' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='295.95' cy='105.63' r='4.62' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='359.22' cy='41.98' r='4.62' style='stroke-width: 0.71; fill: #000000;' />
+<text x='169.40' y='130.84' text-anchor='middle' style='font-size: 18.29px; font-family: "Arial";' textLength='136.17px' lengthAdjust='spacingAndGlyphs'>No data for 2020</text>
+<text x='169.40' y='157.17' text-anchor='middle' style='font-size: 18.29px; font-family: "Arial";' textLength='180.85px' lengthAdjust='spacingAndGlyphs'>(COVID-19 pandemic)</text>
+</g>
+<g clip-path='url(#cpMC4wMHwzODQuMDB8MC4wMHwyNTYuMDA=)'>
+<text x='18.97' y='207.56' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='18.97' y='175.73' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='18.97' y='143.90' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='18.97' y='112.08' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>3</text>
+<text x='18.97' y='80.25' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>4</text>
+<text x='18.97' y='48.42' text-anchor='end' style='font-size: 18.00px; font-family: "Arial";' textLength='10.01px' lengthAdjust='spacingAndGlyphs'>5</text>
+<polyline points='27.04,201.12 375.03,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='42.86,205.60 42.86,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='106.13,205.60 106.13,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='169.40,205.60 169.40,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='232.67,205.60 232.67,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='295.95,205.60 295.95,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<polyline points='359.22,205.60 359.22,201.12 ' style='stroke-width: 1.75; stroke: #D9D9D9; stroke-linecap: butt;' />
+<text x='42.86' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2018</text>
+<text x='106.13' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2019</text>
+<text x='169.40' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='232.67' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text x='295.95' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2022</text>
+<text x='359.22' y='222.07' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='40.03px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text x='201.04' y='243.24' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='36.37px' lengthAdjust='spacingAndGlyphs'>Year</text>
+<text x='8.97' y='21.85' style='font-size: 18.00px; font-family: "Arial";' textLength='44.68px' lengthAdjust='spacingAndGlyphs'>Value</text>
+</g>
+</svg>
