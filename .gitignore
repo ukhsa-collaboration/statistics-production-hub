@@ -9,3 +9,4 @@
 # Local testing environment files
 Gemfile.lock
 docs/_site/
+.Rproj.user
