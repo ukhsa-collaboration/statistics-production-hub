@@ -23,13 +23,11 @@ Remember to run `git pull` regularly to keep up to date with the main branch.
 
 The 'main' branch is protected, meaning you will have to create a new branch to make any changes. 
 
-To do this, on your local machine, first update your 'main' branch using `git pull`. Then run `git checkout -b branch-name` to create and switch to a new branch. You can switch between branches (for example, to work on different fixes) by using `git checkout branch-name`. 
-
-Branch names should be short but descriptive, with each word separated by a hyphen. Author initials should be added to the prefix. For example: `"bc-update-data-vis"`.
+To do this, on your local machine, first update your 'main' branch using `git pull`. Then run `git checkout -b branch-name` to create and switch to a new branch. You can switch between branches (for example, to work on different fixes) by using `git checkout branch-name`. Branch names should be short but descriptive, with each word separated by a hyphen.
 
 Use `git add` and `git commit -m "a clear descriptive commit message"` as usual to stage and commit your changes. 
 
-Once you have finished making your changes, push your branch to GitHub (using `git push` - it may give you instructions for setting an upstream branch). Then log in to GitHub and raise a pull request to have your changes reviewed and merged into 'main'. 
+Once you have finished making your changes, push your branch to GitHub (using `git push` - it may give you instructions for setting an upstream branch like using git push --set upstream origib branch-name). Then you can click the link it gives you to open GitHub and raise a pull request to have your changes reviewed and merged into 'main'. 
 
 
 ## Building websites with Jekyll and GitHub
